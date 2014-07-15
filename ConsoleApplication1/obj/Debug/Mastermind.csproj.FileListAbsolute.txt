@@ -1,0 +1,6 @@
+C:\Users\HP8\Documents\Visual Studio 2012\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\HP8\Documents\Visual Studio 2012\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\HP8\Documents\Visual Studio 2012\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\HP8\Documents\Visual Studio 2012\ConsoleApplication1\ConsoleApplication1\obj\Debug\Mastermind.csprojResolveAssemblyReference.cache
+C:\Users\HP8\Documents\Visual Studio 2012\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\HP8\Documents\Visual Studio 2012\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

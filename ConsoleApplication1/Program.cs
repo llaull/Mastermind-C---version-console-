@@ -18,7 +18,7 @@ public class Mastermind
         static void Main() // fonction principal
         {
             Console.Title = "Le jeu du Mastermind"; // Affiche le nom du programme dans la barre de titre de la console
-            menu();
+            menu(); //test de modif
             Fermeture_programme();
         }
 
